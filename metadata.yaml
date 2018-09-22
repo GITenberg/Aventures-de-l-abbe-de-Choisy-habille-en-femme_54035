@@ -1,0 +1,42 @@
+_repo: Aventures-de-l-abbe-de-Choisy-habille-en-femme_54035
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hanriot, Jules-Armand
+    gutenberg_agent_id: '47667'
+    url: http://www.gutenberg.org/2009/agents/47667
+creator:
+  author:
+    agent_name: Choisy, abbé de
+    aliases:
+    - Choisy, Francois-Timoleon de
+    - De Choisy, François-Timoléon
+    - Choisy, abbe de
+    - Choisy, François-Timoléon de
+    birthdate: 1644
+    deathdate: 1724
+    gutenberg_agent_id: '47665'
+    url: http://www.gutenberg.org/2009/agents/47665
+  editor:
+    agent_name: Montifaud, Marc  de
+    alias: Quivogne de Montifaud, Marie Amelie Chartroule de Montifaud
+    birthdate: 1850
+    gutenberg_agent_id: '47666'
+    url: http://www.gutenberg.org/2009/agents/47666
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2017-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54035'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Choisy, abbé de, 1644-1724'
+- !lcsh 'Cross-dressers -- France -- Biography'
+- GITenberg
+title: Aventures de l'abbé de Choisy habillé en femme
+url: http://www.gutenberg.org/ebooks/54035
